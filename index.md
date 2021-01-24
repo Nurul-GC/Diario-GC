@@ -11,7 +11,7 @@
     nem a terceira igual a nenhuma das anteriores..
 
 ## Já na 0.9v
-    
+
     como poucos sabem o script Diário-GC foi um dos meus primeiros projectos
     comecei a minha carreira criando diversos desafios para que pudesse testar
     as minhas capacidades e desde então já sofreu bastantes mudanças
@@ -21,7 +21,7 @@
     depois sofreu algumas alterações no seu layout, cores e imagens
     depois adotou a criptografia e agora emigrou para um design
     bem mais interessante com (PYTHON + QT = PyQt)..
-    
+
 ## Pai do [GCrypter](https://github.com/Nurul-GC/GCrypter)
 
     bom, eu não diria PAI
