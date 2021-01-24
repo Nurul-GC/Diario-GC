@@ -1,7 +1,5 @@
 # Apresento-te o Diário-GC
 
-![video-apresentacao](img/diariogc.jpg)
-
 ```
 um script-programa que tem a finalidade de REGISTRAR, EDITAR e LER
 mensagens ou pensamentos de forma simples e segura
@@ -9,6 +7,8 @@ mensagens ou pensamentos de forma simples e segura
 usei um algoritmo de criptografia que tenho desenvolvido a algum tempo
 e que até a data presente me pareceu ser inquebrável.. (^_^)
 ```
+
+![video-apresentacao](img/diariogc1.png)
 
 ---
 
