@@ -2,7 +2,7 @@
 
     um editor e registrador de texto para desktop
     simples, seguro, moderno e bastante prático
-    o Diário-GC usa uma criptografia personalizada por mim ( [Nurul-GC](https://github.com/Nurul-GC) )
+    o Diário-GC usa uma criptografia personalizada por mim (Nurul-GC)
     que codifica os dados com base na interligação binária entre números e letras..
 
 ## De uma forma dinâmica
