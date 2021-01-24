@@ -1,3 +1,4 @@
+# Diário-GC
 
     um editor e registrador de texto para desktop
     simples, seguro, moderno e bastante prático
