@@ -22,7 +22,7 @@
     depois adotou a criptografia e agora emigrou para um design
     bem mais interessante com (PYTHON + QT = PyQt)..
 
-## Pai do [GCrypter](https://github.com/Nurul-GC/GCrypter)
+## Pai do [GCrypter](https://artesgc.home.blog/servicos-projetos)
 
     bom, eu não diria PAI
     mas uma inspiração para criar uma ferramenta (somente) criptográfica
